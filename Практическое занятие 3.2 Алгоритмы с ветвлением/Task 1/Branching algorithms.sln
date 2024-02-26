@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Branching algorith
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Task2\Task2.csproj", "{657D1060-87A8-4F7B-AA56-7FE8DD4368CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3\Task3.csproj", "{BF40A931-B6BD-40D7-A394-397F9823D5CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4", "Task4\Task4.csproj", "{0E005D7E-5DAD-4165-9ACB-0FC85E8356D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{657D1060-87A8-4F7B-AA56-7FE8DD4368CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{657D1060-87A8-4F7B-AA56-7FE8DD4368CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{657D1060-87A8-4F7B-AA56-7FE8DD4368CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF40A931-B6BD-40D7-A394-397F9823D5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF40A931-B6BD-40D7-A394-397F9823D5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF40A931-B6BD-40D7-A394-397F9823D5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF40A931-B6BD-40D7-A394-397F9823D5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E005D7E-5DAD-4165-9ACB-0FC85E8356D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E005D7E-5DAD-4165-9ACB-0FC85E8356D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E005D7E-5DAD-4165-9ACB-0FC85E8356D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E005D7E-5DAD-4165-9ACB-0FC85E8356D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
