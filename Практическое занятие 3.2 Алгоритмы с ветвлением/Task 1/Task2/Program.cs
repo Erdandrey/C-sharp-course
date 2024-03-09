@@ -36,6 +36,7 @@ namespace Task2
             { 
                 Console.WriteLine("Точки C и B расположены на одинаковом расстоянии от точки А. Это расстояние равно: {0}", AC);
             }
+            Console.ReadKey();
         }
     }
 }

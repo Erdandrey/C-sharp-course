@@ -22,6 +22,7 @@ namespace Задача1
                 }
             }
             Console.WriteLine("Самое длинное слово в предложении: \"{0}\"", StrMax);
+            Console.ReadKey();
         }
     }
 }

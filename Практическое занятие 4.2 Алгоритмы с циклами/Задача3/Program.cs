@@ -28,6 +28,7 @@ namespace Задача3
                 }
             }
             Console.WriteLine("В прямоугольнике со сторонами {0} на {1} поместится {2} квадратов стороной {3}",A,B,count,C);
+            Console.ReadKey();
         }
     }
 }

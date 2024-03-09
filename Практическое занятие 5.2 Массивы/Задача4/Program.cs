@@ -24,6 +24,7 @@ namespace Задача4
             }
             Console.WriteLine();         
             Console.WriteLine("Rоличество нечетных положительных элементов, стоящих на четных местах: {0}", counter);
+            Console.ReadKey();
         }
     }
 }

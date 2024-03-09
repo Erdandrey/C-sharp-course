@@ -37,6 +37,7 @@ namespace Задача1
             {
                 Console.WriteLine("Площади треугольников равны");
             }
+            Console.ReadKey();
         }
     }
 }

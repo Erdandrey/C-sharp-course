@@ -39,6 +39,7 @@ namespace Задача5
                 }
                 Console.WriteLine();
             }
+            Console.ReadKey();
         }
     }
 }

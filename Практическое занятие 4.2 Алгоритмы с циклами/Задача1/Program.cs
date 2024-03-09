@@ -18,6 +18,7 @@ namespace Задача1
                 S += 2 * i - 1;
                 Console.WriteLine("{0} - {1}", i, S);
             }
+            Console.ReadKey();
         }
     }
 }

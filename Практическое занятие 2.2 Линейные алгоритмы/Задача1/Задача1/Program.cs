@@ -16,6 +16,7 @@ namespace Задача1
             R = L / (2 * Math.PI);
             S= Math.Pow(L,2) / (4 * Math.PI);
             Console.WriteLine("Радиус окружности: {0}, площадь круга: {1}", R,S);
+            Console.ReadKey();
 
 
         }

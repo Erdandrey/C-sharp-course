@@ -28,6 +28,7 @@ namespace Задача1
                 Console.WriteLine("Значение угла в радианах: {0}", r);
             }
             catch (Exception ex) { Console.WriteLine(ex.Message); }
+            Console.ReadKey();
         }
     }
 }

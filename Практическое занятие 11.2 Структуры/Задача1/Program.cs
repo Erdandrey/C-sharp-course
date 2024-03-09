@@ -15,6 +15,7 @@ namespace Задача1
             double b = Convert.ToDouble(Console.ReadLine());
             Linear lin = new Linear(k,b);
             Console.WriteLine(lin.Root());
+            Console.ReadKey();
         }
     }
 }

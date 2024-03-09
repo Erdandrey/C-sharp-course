@@ -17,6 +17,7 @@ namespace Задача1
             {
                 Console.WriteLine(dir2);
             }
+            Console.ReadKey();
         }
     }
 }

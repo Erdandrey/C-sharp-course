@@ -153,6 +153,7 @@ namespace Task4
                     }
                 }
                 Console.WriteLine("{0} - \"{1}\" ",Num, S);
+                Console.ReadKey();
             }
         }
     }

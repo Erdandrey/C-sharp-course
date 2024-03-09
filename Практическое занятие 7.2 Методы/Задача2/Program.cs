@@ -20,6 +20,7 @@ namespace Задача2
             int Square, Volume;
             GetCubeParams(D,out Volume,out Square);
             Console.WriteLine("Объём куба будет равен {0}, а площадь поверхности {1}", Volume, Square);
+            Console.ReadKey();
         }
     }
 }

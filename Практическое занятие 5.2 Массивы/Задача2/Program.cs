@@ -32,6 +32,7 @@ namespace Задача2
             }
             Console.WriteLine();
             Console.WriteLine("Минимальное значение в массиве: {0}. Максимальное значение в массиве: {1}", min, max);
+            Console.ReadKey();
         }
     }
 }

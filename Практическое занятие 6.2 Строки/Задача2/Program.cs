@@ -31,6 +31,7 @@ namespace Задача2
             {
                 Console.WriteLine("Это не строка-палиндром!");
             }
+            Console.ReadKey();
         }
     }
 }

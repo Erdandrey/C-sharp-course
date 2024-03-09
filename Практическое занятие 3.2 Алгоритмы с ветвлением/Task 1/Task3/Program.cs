@@ -73,6 +73,7 @@ namespace Task3
                         break;
                 }
                 Console.WriteLine("Ваш возраст - {0}", S);
+                Console.ReadKey();
             }
         }
     }

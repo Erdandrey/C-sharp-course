@@ -48,6 +48,7 @@ namespace Задача3
                 if (i==5) { Console.Write("| "); }
                 Console.Write("{0} ", arr[i]);
             }
+            Console.ReadKey();
         }
     }
 }

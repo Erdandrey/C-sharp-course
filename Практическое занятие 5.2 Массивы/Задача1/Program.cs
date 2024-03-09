@@ -21,6 +21,7 @@ namespace Задача1
             }
             float m=(float)S/arr.Length;
             Console.WriteLine("Среднее арифметическое элементов массива равно: {0}", m);
+            Console.ReadKey();
         }
     }
 }

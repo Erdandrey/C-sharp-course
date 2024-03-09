@@ -23,7 +23,7 @@ namespace Задача3
                 Chars += line.Length;
             }
             Console.WriteLine("В тексте в файле {0} строк(и), {1} слов(а) и  {2} символов", Lines, Words, Chars);
-
+            Console.ReadKey();
 
         }
     }

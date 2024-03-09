@@ -105,6 +105,7 @@ namespace Task1
             {
                 Console.WriteLine("Точки не соответствуют условию");
             }
+            Console.ReadKey();
         }
     }
 }

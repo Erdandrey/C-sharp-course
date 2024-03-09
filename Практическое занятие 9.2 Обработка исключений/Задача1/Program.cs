@@ -43,6 +43,7 @@ namespace Задача1
             {
                 Console.WriteLine("Ошибка!" + ex.Message);
             }
+            Console.ReadKey();
         }
     }
 }

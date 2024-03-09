@@ -73,7 +73,7 @@ namespace Задача6
             {
                 Console.WriteLine("Этот квадрат не магический!");
             }
-
+            Console.ReadKey();
         }
     }
 }

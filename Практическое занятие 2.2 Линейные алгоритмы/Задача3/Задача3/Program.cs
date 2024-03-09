@@ -30,6 +30,7 @@ namespace Задача3
             p = P / 2;
             S = Math.Sqrt(p * (p - a) * (p - b) * (p - c));
             Console.WriteLine("Периметр треугольника равен P={0}. Площадь треугольника равен S={1}", P, S);
+            Console.ReadKey();
         }
     }
 }

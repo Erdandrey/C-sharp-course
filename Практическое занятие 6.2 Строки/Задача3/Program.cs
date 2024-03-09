@@ -37,6 +37,7 @@ namespace Задача3
                 }
             }
             Console.WriteLine(FinalString);
+            Console.ReadKey();
         }
     }
 }

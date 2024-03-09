@@ -22,6 +22,7 @@ namespace Задача2
             P = 2 * Math.Abs(X1 - X2) + 2 * Math.Abs(Y1 - Y2);
             S = Math.Abs(X1 - X2) * Math.Abs(Y1 - Y2);
             Console.WriteLine("Периметр прямоугольника равен P={0}. Площадь прямоугольника равна S={1}", P,S);
+            Console.ReadKey();
         }
     }
 }

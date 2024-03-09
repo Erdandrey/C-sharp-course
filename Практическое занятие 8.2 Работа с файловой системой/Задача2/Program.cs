@@ -28,7 +28,7 @@ namespace Задача2
             }
             reader.Close();
             Console.WriteLine(Sum);
-
+            Console.ReadKey();
         }
     }
 }
